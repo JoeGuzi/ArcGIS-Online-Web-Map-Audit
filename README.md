@@ -6,11 +6,13 @@ Purpose: The AGO Web Map Audit loops through all of the web maps in an organizat
 
 Authored by: Joe Guzi Contributions by: Rick Frantz
 
-Previous Production Date: 6/30/24
+Previous Production Date: 2/23/25
 
-Production Date: 8/13/24
+Production Date: 2/25/25
 
 Notes:
 
 6/30/24 --- Updated to capture content status of the item and the layers
 8/13/24 --- updated with Audit Template
+2/23/25 --- Updated for the ArcGIS Python API version 2.4 update
+2/25/25 --- Added optional code to upload results to AGO
